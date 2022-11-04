@@ -8,6 +8,8 @@ In #jam-folk we'll explore the ancient Signature economy traditions of **folk** 
 
 In #jam-folk we'll celebrate making & playing Good games.
 
+#tuningFolk
+
 ## projects
 
 ![exite](https://i.imgur.com/EwpJbzF.png)
@@ -39,13 +41,13 @@ Important to announce folk values in Web3.
 * covers of songs are one of the few permissionless areas of copyright
     * ripe to explore Signature economies 
 * fewer owners of songwriter share than other parts of the song vertical.
-    * a root other works can permissionlessly cover
+    * a performer memorizing lyrics is an ancient form of Signature economies
 * text is the universal interface
     * from Unix pipes to lootverse to cuniform
 * expresses the poetic nature of beautiful lyrics
     *  honor carefully chosen words songwriters share in honest vulnerability
 
-
+*Sing in tune with the tuning fork.* #tuningfolk
 
 ### 3) blog 🗞️ & 📻 podcast
 
