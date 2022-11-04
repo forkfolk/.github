@@ -45,6 +45,8 @@ Important to announce folk values in Web3.
 * expresses the poetic nature of beautiful lyrics
     *  honor carefully chosen words songwriters share in honest vulnerability
 
+
+
 ### 3) blog & podcast
 
 #### why
@@ -125,13 +127,13 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 https://folk.gg
 
-https://hackmd.io/@folk
-
-https://github.com/forkfolk
+https://hackmd.io/@folk <git linked> https://github.com/forkfolk
 
 [forkfolk.eth](https://etherscan.io/enslookup-search?search=forkfolk.eth) , [folkfork.eth](https://etherscan.io/enslookup-search?search=folkfork.eth)
 
 https://twitter.com/folk__gg
+
+![folk__gg](https://i.imgur.com/J0wXdhc.jpg)
 
 ## deck
 
