@@ -93,13 +93,15 @@ Form an NFT license Working Group within Creative Commons.
 
 NFT licenses for the Global Commons!
 
+Options including copyleft, free software and share-alike are Good.
+
 Necessary legal engineer *infra* for Web3 folk IP.
 
 #### snapshot Nov 3, 2022
 
 [W3M](https://twitter.com/Web3Coalition) will run the petition. 
 
-[![CC](https://i.imgur.com/AYZKoPM.jpg)](https://twitter.com/lessig/status/1587969058774798336)
+[![CC](https://i.imgur.com/28RiSi8.png)](https://twitter.com/lessig/status/1587969058774798336)
 
 Folk contributors have written these two pieces for CC: [AI collab](https://ccai.pubpub.org/pub/collaborations) and [copyright as a public good](https://ca.creativecommons.net/2021/08/09/copyright-as-a-public-good-cc-nft-value-creation/).
 
@@ -119,7 +121,7 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 ## assets
 
-[\$FOLK](https://app.kali.gg/daos/1/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38)
+[\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , [dao.folk.gg](http://dao.folk.gg)
 
 https://folk.gg
 
@@ -135,11 +137,14 @@ https://twitter.com/folk__gg
 
 ### snapshot Nov 3, 2022
 
-http://bard.folk.gg
+* [bard.folk.gg](http://bard.folk.gg)
+* [first draft](https://docs.google.com/presentation/d/11xUZNij6CrIP7EkH6HF9oE_T_T6fMH-09Xbd3sK2b34/edit?usp=sharing)
 
 ## donate
 
 Send to 0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38 on Mainnet only.
+
+Any donations of $10 USD equivalent or more will receive a thank you gift. 
 
 ## gg
 
