@@ -6,7 +6,7 @@ We cordially invite you to join #jam-folk !
 
 In #jam-folk we'll explore the ancient Signature Economy traditions of **folk** culture from around the World: past, present and future.
 
-In #jam-folk we'll collaborate on making & playing Good games.
+In #jam-folk we'll celebrate making & playing Good games.
 
 ## projects
 
@@ -127,7 +127,7 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 https://folk.gg
 
-https://hackmd.io/@folk <git linked> https://github.com/forkfolk
+https://hackmd.io/@folk | git linked | https://github.com/forkfol
 
 [forkfolk.eth](https://etherscan.io/enslookup-search?search=forkfolk.eth) , [folkfork.eth](https://etherscan.io/enslookup-search?search=folkfork.eth)
 
