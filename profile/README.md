@@ -65,7 +65,7 @@ Folk's relationship with emerging network techologies such as AI are fascinating
 
 [Pluriverse.wtf](https://pluriverse.wtf) is building lore rooted in the same community as KERNEL.
 
-It lends itself to the Signature Economies and multimedia of folk.
+The lore lends itself to the Signature economies and multimedia of folk.
 
 #### snapshot Nov 3, 2022
 
@@ -73,14 +73,14 @@ Please watch [Community Call #005 - November 2, 2022](https://vimeo.com/76656143
 
 * manifesto (high priority)
     * fork of folk's manifesto? 
-    * Signature Economies source-of-truth copy
-* [Coordination Stories](https://github.com/forkfolk/coordination_stories) PR for EthDenver printed swag
-    * Signature Economies source-of-truth copy
+    * Signature economies source-of-truth copy
+* [Coordination Stories](https://github.com/forkfolk/coordination_stories) PR for planned EthDenver-swag printed book
+    * Signature economies source-of-truth copy
     * a few stories as folk songs
     * PR deadline Nov 31
 
 * Moloch Tavern Songbook
-    * Signature Economies source-of-truth copy
+    * Signature economies source-of-truth copy
     * extension of folk songs from Coordination Stories
 
 [![pluriverse](https://i.imgur.com/oSs7wty.png)](https://pluriverse.wtf)
@@ -97,7 +97,7 @@ NFT licenses for the Global Commons!
 
 Options including copyleft, free software and share-alike are Good.
 
-Necessary legal engineer *infra* for Web3 folk IP.
+Necessary legal engineer *infra* for Web3 folk/OSS-layer IP.
 
 #### snapshot Nov 3, 2022
 
@@ -123,11 +123,11 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 ## assets
 
-[\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , [dao.folk.gg](http://dao.folk.gg)
+[\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , http://dao.folk.gg
 
 https://folk.gg
 
-https://hackmd.io/@folk | git linked | https://github.com/forkfol
+https://hackmd.io/@folk | git linked | https://github.com/forkfolk
 
 [forkfolk.eth](https://etherscan.io/enslookup-search?search=forkfolk.eth) , [folkfork.eth](https://etherscan.io/enslookup-search?search=folkfork.eth)
 
