@@ -40,7 +40,7 @@ Important to announce folk values in Web3.
 
 * covers of songs are one of the few permissionless areas of copyright
     * ripe to explore Signature economies 
-* fewer owners of songwriter share than other parts of the song vertical.
+* fewer owners of songwriter share than other parts of the song vertical
     * a performer memorizing lyrics is an ancient form of Signature economies
 * text is the universal interface
     * from Unix pipes to lootverse to cuniform
@@ -123,6 +123,12 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 [![spiral](https://i.imgur.com/FI0f6Q2.png)](gold.besta.pe)
 
+### 7) wrappr 🏛 markdown
+
+#### why
+
+Starting at [this bounty](https://app.dework.xyz/profile/bestape/board?taskId=3f2f3e67-c182-4a99-8cb1-d38c3544820c) , [wrappr.wtf](http://wrappr.wtf/) to manage copyright licenses as NFTs.
+
 ## assets
 
 [\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , http://dao.folk.gg
@@ -136,6 +142,8 @@ https://hackmd.io/@folk | git linked | https://github.com/forkfolk
 https://twitter.com/folk__gg
 
 ![folk__gg](https://i.imgur.com/J0wXdhc.jpg)
+
+[fork & eggs are DALL-E text generations]
 
 ## deck
 
