@@ -4,7 +4,7 @@
 
 We cordially invite you to join #jam-folk !
 
-In #jam-folk we'll explore the ancient Signature Economy traditions of **folk** culture from around the World: past, present and future.
+In #jam-folk we'll explore the ancient Signature economy traditions of **folk** culture from around the World: past, present and future.
 
 In #jam-folk we'll celebrate making & playing Good games.
 
@@ -14,7 +14,7 @@ In #jam-folk we'll celebrate making & playing Good games.
 
 [toc]
 
-### 1) folk manifesto
+### 1) folk 🪶 manifesto
 
 #### why
 
@@ -24,7 +24,7 @@ Honors the derivative history of Signature economies:
 2) [Towards a Digital Pluriverse](https://pluriverse.world/)
 3) [Signature Economies](https://sign.kernel.community)
 
-Priority of [Pluriverse.wtf](https://pluriverse.wtf) to make a signature economies manifesto forked from what we build at folk.
+It's a priority of [Pluriverse.wtf](https://pluriverse.wtf) to publish a Signature economies manifesto forked from what we build at folk.
 
 Important to announce folk values in Web3.
 
@@ -32,12 +32,12 @@ Important to announce folk values in Web3.
 
 [A fork](https://github.com/forkfolk/manifesto) of KERNEL's Signature Economies.
 
-### 2) karaoke songbook
+### 2) karaoke 📖 songbook
 
 #### why
 
 * covers of songs are one of the few permissionless areas of copyright
-    * ripe to explore signature economies 
+    * ripe to explore Signature economies 
 * fewer owners of songwriter share than other parts of the song vertical.
     * a root other works can permissionlessly cover
 * text is the universal interface
@@ -47,7 +47,7 @@ Important to announce folk values in Web3.
 
 
 
-### 3) blog & podcast
+### 3) blog 🗞️ & 📻 podcast
 
 #### why
 
@@ -59,7 +59,7 @@ Folk's ongoing connection to copyright legislation and enforcement has deep root
 
 Folk's relationship with emerging network techologies such as AI are fascinating to explore.
 
-### 4) public goods for pluriverse 
+### 4) public goods 🏞️ for pluriverse 
 
 #### why
 
@@ -87,7 +87,7 @@ Please watch [Community Call #005 - November 2, 2022](https://vimeo.com/76656143
 
 ![leshy folk](https://i.imgur.com/z3h062f.jpg)
 
-### 5) Creative Commons petition
+### 5) Creative Commons 📜 petition
 
 #### why 
 
@@ -107,7 +107,7 @@ Necessary legal engineer *infra* for Web3 folk IP.
 
 Folk contributors have written these two pieces for CC: [AI collab](https://ccai.pubpub.org/pub/collaborations) and [copyright as a public good](https://ca.creativecommons.net/2021/08/09/copyright-as-a-public-good-cc-nft-value-creation/).
 
-### 6) futurefolk artifacts
+### 6) futurefolk 🟥 artifacts
 
 #### why
 
@@ -142,7 +142,7 @@ https://twitter.com/folk__gg
 * [bard.folk.gg](http://bard.folk.gg)
 * [first draft](https://docs.google.com/presentation/d/11xUZNij6CrIP7EkH6HF9oE_T_T6fMH-09Xbd3sK2b34/edit?usp=sharing)
 
-## donate
+## donate 💰
 
 Send to 0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38 on Mainnet only.
 
