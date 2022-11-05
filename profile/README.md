@@ -121,7 +121,7 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 #### b) pythagorean metal (2021)
 
-[![spiral](https://i.imgur.com/FI0f6Q2.png)](gold.besta.pe)
+[![spiral](https://i.imgur.com/Q1wz1MX.gif)](http://gold.besta.pe)
 
 ### 7) wrappr 🏛 markdown
 
@@ -132,6 +132,8 @@ Starting at [this bounty](https://app.dework.xyz/profile/bestape/board?taskId=3f
 ## assets
 
 [\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , http://dao.folk.gg
+
+![KALI eggs](https://i.imgur.com/NPv19mP.png)
 
 https://folk.gg
 
