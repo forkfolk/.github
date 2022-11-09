@@ -1,3 +1,5 @@
+###### tags: `finished project`
+
 ![pixel](https://i.imgur.com/FC3P5x5.png)
 
 # folk.gg KB7 expo
@@ -41,7 +43,7 @@ Important to announce folk values in Web3.
 * covers of songs are one of the few permissionless areas of copyright
     * ripe to explore Signature economies 
 * fewer owners of songwriter share than other parts of the song vertical
-    * a performer memorizing lyrics is an ancient form of Signature economies
+    * a performer memorizing lyrics is an ancient form of Signature economies (seal)
 * text is the universal interface
     * from Unix pipes to lootverse to cuniform
 * expresses the poetic nature of beautiful lyrics
@@ -127,19 +129,21 @@ Web3 is early-days exploring the new kinds of folkart possible onchain.
 
 #### why
 
-Starting at [this bounty](https://app.dework.xyz/profile/bestape/board?taskId=3f2f3e67-c182-4a99-8cb1-d38c3544820c) , [wrappr.wtf](http://wrappr.wtf/) to manage copyright licenses as NFTs.
+Starting at [this bounty](https://app.dework.xyz/profile/bestape/board?taskId=3f2f3e67-c182-4a99-8cb1-d38c3544820c), [wrappr.wtf](http://wrappr.wtf/) to manage copyright licenses as NFTs.
 
 ## assets
 
-[\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38) , http://dao.folk.gg
+[\$FOLK](https://etherscan.io/token/0x2e86fdF71f5f3536B6d2CfE4Cb8d5E7d329e4d38), http://dao.folk.gg
 
 ![KALI eggs](https://i.imgur.com/NPv19mP.png)
 
 https://folk.gg
 
+https://folk.pubpub.org
+
 https://hackmd.io/@folk | git linked | https://github.com/forkfolk
 
-[forkfolk.eth](https://etherscan.io/enslookup-search?search=forkfolk.eth) , [folkfork.eth](https://etherscan.io/enslookup-search?search=folkfork.eth)
+[forkfolk.eth](https://etherscan.io/enslookup-search?search=forkfolk.eth), [folkfork.eth](https://etherscan.io/enslookup-search?search=folkfork.eth)
 
 https://twitter.com/folk__gg
 
